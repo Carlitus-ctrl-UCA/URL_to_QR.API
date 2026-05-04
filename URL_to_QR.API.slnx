@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="URL_to_QR.API.Tests/URL_to_QR.API.Tests.csproj" />
+  <Project Path="URL_to_QR.API/URL_to_QR.API.csproj" />
+</Solution>
